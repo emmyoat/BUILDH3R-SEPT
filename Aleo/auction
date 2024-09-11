@@ -1,4 +1,3 @@
-Updated code with prize and claim prize function added
 program auction.aleo;
 
 record Bid:
